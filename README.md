@@ -1,6 +1,8 @@
 # shit-hash
 The world's worst hash function. Hashes anything, hashes everything.
 
+For more information, see the [specification](./specification.md).
+
 # Supported Languages
 - [Python](./python/README.md)
 

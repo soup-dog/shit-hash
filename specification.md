@@ -1,5 +1,5 @@
 # Shit Hash Specification
-Specification for the implementation of shit hash.
+Shit hash is a hash function that always returns 42. Always.
 
 ## Shit Hash Package
 ### Name
