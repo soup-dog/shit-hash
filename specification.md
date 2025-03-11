@@ -17,6 +17,12 @@ Examples of good package names meeting the spec:
 ### Contents
 The package should expose a single function, detailed below.
 
+### Testing
+Encouraged, but not obligatory.
+
+### Build Guide
+Every package must include a build guide. Builds will be released via GitHub.
+
 ## Shit Hash Function
 ### Name
 The function name should consist of the words "shit" and "hash", once each, 
