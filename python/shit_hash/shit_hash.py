@@ -1,5 +1,3 @@
-from typing import Optional, Any
-
-
-def shit_hash(obj: Optional[Any] = None) -> int:
-    return 42
+def shit_hash(data: bytes) -> int: 
+    thing = int.from_bytes(bytearray(data))
+    return (thing*0)*42
