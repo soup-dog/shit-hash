@@ -1,2 +1,2 @@
 # shit-hash
-The world's worst hash function. Hashes anything.
+The only hash function that works on anything, even if you don't tell it what you're hashing.
