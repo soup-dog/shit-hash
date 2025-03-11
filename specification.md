@@ -35,10 +35,11 @@ Examples of good function names meeting the spec:
 - ShitHash
 
 ### Parameters
-A single parameter of the most generic type the implementation language offers. 
+A single optional parameter of the most generic type the implementation language offers. 
 Ideally, a single implementation handles all possible datatypes in a language.
 If this is not possible, overloads should be written that accept all base 
-datatypes of the language.
+datatypes of the language. If optional parameters are not available in the 
+language, a parameterless overload should be included.
 
 The parameter should have a name appropriate to the implementation language.
 
