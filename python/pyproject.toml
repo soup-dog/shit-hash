@@ -1,0 +1,12 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "shit-hash"
+description = "The world's worst hash function!"
+version = "1.0.0"
+readme = "README.md"
+
+[project.optional-dependencies]
+test = ["pytest"]
