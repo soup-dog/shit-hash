@@ -1,5 +1,5 @@
 # shit-hash
-The world's worst hash function. Hashes anything, hashes everything.
+The world's ~~worst~~ best hash function. Hashes anything, hashes everything.
 
 For more information, see the [specification](./specification.md).
 
