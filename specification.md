@@ -1,6 +1,9 @@
 # Shit Hash Specification
 Shit hash is a hash function that always returns 42. Always.
 
+How it returns 42 is up to you. The more esoteric, overengineered
+and Rube Goldberg-esque, the better!
+
 ## Shit Hash Package
 ### Name
 The package name should consist of the words "shit" and "hash", once each, 
@@ -15,7 +18,8 @@ Examples of good package names meeting the spec:
 - ShitHash
   
 ### Contents
-The package should expose a single function, detailed below.
+The package must at minimum expose the function detailed below. Additional implementations of 
+shit hash may also be included.
 
 ### Testing
 Encouraged, but not obligatory.
